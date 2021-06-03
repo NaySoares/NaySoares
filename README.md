@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/bannerPNG.png">
+
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 I'm a **Computer Engineering Student** and learning **Frontend** and **Backend** with JS.
