@@ -12,7 +12,6 @@ I'm a **Computer Engineering Student** and learning **Frontend** and **Backend**
 
 #### About me:
 - 🌱 I'm currently learning ReactJS and React Native
-- 📫 How to contact me: 
 -  🥅 2021 Goals: Contribute more to open source projects
 - 🖌 Fun fact: I love to draw and digital painting
 ---
