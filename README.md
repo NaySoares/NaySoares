@@ -9,8 +9,8 @@ I'm a **Computer Engineering Student** and learning **Frontend** with ReactJs.
 - 📱 Applications
 
 #### About me:
-- 🌱 I'm currently learning ReactJS and React Native
-- 🖌 Fun fact: I love to draw and digital painting
+- 🌱 I'm currently learning ReactJS and React Native.
+- 🖌 Fun fact: I love to draw and digital painting.
 ---
 
 #### Connect with me:
