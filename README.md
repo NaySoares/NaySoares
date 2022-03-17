@@ -1,37 +1,23 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
+```zsh
+> EliSoares
+```
 
-I'm a **Computer Engineering Student** and learning **Frontend** with ReactJs.
+<img align="left" src="https://i.pinimg.com/564x/ce/33/32/ce3332388e10b26640f6f8effe0861ee.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="270" /> 
 
----
-#### Things I like to do:
-- 🖥 Web Applications
-- 🎨 Interfaces
-- 📱 Applications
-
-#### About me:
-- 🌱 I'm currently learning ReactJS and React Native.
-- 🖌 Fun fact: I love to draw and digital painting.
----
-
-#### Connect with me:
-<div>
-<a href="https://linkedin.com/in/elienai-soares"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/ElienaiSoares07"><img src="https://img.shields.io/badge/twitter-00ACEE.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="mailto:elienay.soares07@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
-</div>
-
-
-#### Languages and Tools:
-<div>
-<img align="left"  alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/visual-studio-code.png" />
-<img align="left"  alt="Photoshop" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/ps.png" />
-<img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/html.png" />
-<img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/css.png" />
-<img align="left" alt="Sass" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/sass.png" />
-<img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/javascript.png" />
-<img align="left" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/ts.png" />
-<img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/react.png" />
-<img align="left" alt="MongoDB" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/mongodb.png" />
-<img align="left" alt="Git" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/git.png" />
-<img align="left" alt="GitHub" width="36px" src="https://raw.githubusercontent.com/NaySoares/NaySoares/main/img/github.png" />
-</div>
+```csharp
+elisoares@github
+-------------------------
+OS: Arch Linux x86_64 / MacOS 12.3
+Shell: zsh 5.8
+Location: Belém-PA, BR
+Frameworks: ReactJS
+Languages: JavaScript, TypeScript, HTML, CSS
+Learning: Node.js, PostgreSQL
+Hobbies: Editing Images, Watching Series, Reading Everything
+Commits: ???
+Discord: Eli Soares#4516
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/a5a5af/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/667491/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/b76f97/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/fbe2d1/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/4d5d74/000000?text=+" width="25" height="20" />
+</p>
