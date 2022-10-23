@@ -12,7 +12,7 @@ Shell: zsh 5.8
 Location: Belém-PA, BR
 Frameworks: ReactJS,  Node.js
 Languages: JavaScript, TypeScript, HTML, CSS
-Learning: C++, C#
+Learning: Java, Rust
 Hobbies: Editing Images, Watching Series, Reading Everything
 Commits: ???
 Discord: Eli Soares#4516
