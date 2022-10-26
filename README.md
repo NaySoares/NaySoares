@@ -14,6 +14,6 @@ Frameworks: ReactJS,  Node.js
 Languages: JavaScript, TypeScript, HTML, CSS
 Learning: Java, Rust
 Hobbies: Editing Images, Watching Series, Reading Everything
-Commits: ???
+Commits: ????
 Discord: Eli Soares#4516
 ```
