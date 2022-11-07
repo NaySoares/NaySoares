@@ -15,5 +15,4 @@ Languages: JavaScript, TypeScript, HTML, CSS
 Learning: Java, Rust
 Hobbies: Editing Images, Watching Series, Reading Everything
 Commits: ????
-Discord: Eli Soares#4516
 ```
