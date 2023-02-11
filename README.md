@@ -7,12 +7,12 @@
 ```csharp
 naysoares@github
 -------------------------
-OS: Arch Linux x86_64 / MacOS 12.3
+OS: Ubuntu 22.04 / MacOS 13.1
 Shell: zsh 5.8
 Location: Belém-PA, BR
 Frameworks: ReactJS,  Node.js
-Languages: JavaScript, TypeScript, HTML, CSS
-Learning: Java, Rust
-Hobbies: Editing Images, Watching Series, Reading Everything
+Languages: JavaScript, TypeScript
+Learning: Rust, C++
+Hobbies: Edit Images, Read Everything
 Commits: ???
 ```
