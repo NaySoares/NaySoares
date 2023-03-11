@@ -7,7 +7,7 @@
 ```csharp
 naysoares@github
 -------------------------
-OS: Ubuntu 22.04 / MacOS 13.1
+OS: Fedora 37 / MacOS 13.2
 Shell: zsh 5.8
 Location: Belém-PA, BR
 Frameworks: ReactJS,  Node.js
