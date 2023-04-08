@@ -14,5 +14,5 @@ Frameworks: ReactJS,  Node.js
 Languages: JavaScript, TypeScript
 Learning: Rust, C++
 Hobbies: Edit Images, Read Everything
-Commits: ????
+Commits: ???
 ```
