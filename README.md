@@ -12,7 +12,7 @@ Shell: zsh 5.8
 Location: Belém-PA, BR
 Frameworks: ReactJS,  Node.js
 Languages: JavaScript, TypeScript
-Learning: Rust, C++
+Learning: Rust, C#
 Hobbies: Edit Images, Read Everything
 Commits: ????
 ```
