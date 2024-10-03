@@ -7,11 +7,10 @@
 ```csharp
 naysoares@github
 -------------------------
-OS: Fedora 37 / MacOS 13.2
+OS: Ubuntu 20.04 / MacOS 15.0
 Shell: zsh 5.8
 Location: Belém-PA, BR
-Frameworks: ReactJS,  Node.js
-Languages: JavaScript, TypeScript
+Languages: Java, JavaScript (ReactJS), TypeScript
 Learning: Rust, C#
 Hobbies: Edit Images, Read Everything
 Commits: ????
