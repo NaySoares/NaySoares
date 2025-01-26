@@ -6,7 +6,7 @@
 
 ```csharp
 naysoares@github
--------------------------
+------------------------
 OS: Ubuntu 20.04 / MacOS 16.0
 Shell: zsh 5.8
 Location: Belém-PA, BR
