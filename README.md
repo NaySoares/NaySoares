@@ -9,10 +9,10 @@
 ```javascript
 naysoares@github
 ------------------------
-OS: Ubuntu 20.04 / MacOS Tahoe 26.0.1;
+OS: Ubuntu 24.04 / MacOS Tahoe 26.3;
 Shell: zsh 5.9;
 Location: Belém-PA, BR;
 Languages: Java, JavaScript (ReactJS), TypeScript;
 Learning: Rust, C#;
-Hobbies: Edit Images, Read Everything;
+Hobbies: Edit Images, Read Everything, Self-Hosting;
 ```
